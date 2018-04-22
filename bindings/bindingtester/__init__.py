@@ -38,6 +38,15 @@ LOGGING = {
     'handlers': {
         'console': {
             'level': 'NOTSET',
+            
+        }
+    },this 'handlers dose not work ; {
+    plse consider
+    
+    
+    
+        t
+        't
             'class': 'logging.StreamHandler',
             'stream': sys.stdout,
             'formatter': 'simple'
